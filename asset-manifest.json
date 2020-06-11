@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pick-your-dream-color/static/css/main.5f9fe60e.chunk.css",
+    "main.js": "/pick-your-dream-color/static/js/main.5f93e51c.chunk.js",
+    "main.js.map": "/pick-your-dream-color/static/js/main.5f93e51c.chunk.js.map",
+    "runtime-main.js": "/pick-your-dream-color/static/js/runtime-main.74212797.js",
+    "runtime-main.js.map": "/pick-your-dream-color/static/js/runtime-main.74212797.js.map",
+    "static/css/2.0da342d8.chunk.css": "/pick-your-dream-color/static/css/2.0da342d8.chunk.css",
+    "static/js/2.a6cf9f02.chunk.js": "/pick-your-dream-color/static/js/2.a6cf9f02.chunk.js",
+    "static/js/2.a6cf9f02.chunk.js.map": "/pick-your-dream-color/static/js/2.a6cf9f02.chunk.js.map",
+    "index.html": "/pick-your-dream-color/index.html",
+    "precache-manifest.b728129ad0dab9da1651a9f150bb62bd.js": "/pick-your-dream-color/precache-manifest.b728129ad0dab9da1651a9f150bb62bd.js",
+    "service-worker.js": "/pick-your-dream-color/service-worker.js",
+    "static/css/2.0da342d8.chunk.css.map": "/pick-your-dream-color/static/css/2.0da342d8.chunk.css.map",
+    "static/css/main.5f9fe60e.chunk.css.map": "/pick-your-dream-color/static/css/main.5f9fe60e.chunk.css.map",
+    "static/js/2.a6cf9f02.chunk.js.LICENSE.txt": "/pick-your-dream-color/static/js/2.a6cf9f02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74212797.js",
+    "static/css/2.0da342d8.chunk.css",
+    "static/js/2.a6cf9f02.chunk.js",
+    "static/css/main.5f9fe60e.chunk.css",
+    "static/js/main.5f93e51c.chunk.js"
+  ]
+}
